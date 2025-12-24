@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # hands-on-git
 A personal Git/GitHub documentation repository covering core concepts, workflows, and practical usage—along with a curated collection of powerful Git aliases to boost productivity.
 =======
@@ -10,4 +9,3 @@ This repository is used to collect commands, workflows, explanations, and practi
 
 Content may evolve over time as my understanding and workflow improve.
 
->>>>>>> f9d754e (2: Added a Readme File)
