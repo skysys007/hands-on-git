@@ -1,7 +1,7 @@
-# hands-on-git
+# Hands-on-git
 A personal Git/GitHub documentation repository covering core concepts, workflows, and practical usage—along with a curated collection of powerful Git aliases to boost productivity.
 =======
-# Git & GitHub Notes
+## Git & GitHub Notes
 
 Personal documentation and notes on Git and GitHub.
 
